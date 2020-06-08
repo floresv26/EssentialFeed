@@ -1,5 +1,5 @@
 //
-//  FeedItems.swift
+//  FeedItem.swift
 //  EssentialFeed
 //
 //  Created by Vanessa Flores on 5/24/20.

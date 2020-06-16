@@ -83,10 +83,10 @@
 		A31F6B4B247B098200F83974 /* EssentialFeed */ = {
 			isa = PBXGroup;
 			children = (
+				A31F6B67247B0AE500F83974 /* Feed Feature */,
 				A31F6B6C247C8BEC00F83974 /* Feed API */,
 				A31F6B4C247B098200F83974 /* EssentialFeed.h */,
 				A31F6B4D247B098200F83974 /* Info.plist */,
-				A31F6B67247B0AE500F83974 /* Feed Feature */,
 			);
 			path = EssentialFeed;
 			sourceTree = "<group>";
